@@ -4,9 +4,9 @@
 The new clean geojson data is created by combining geojson-data from
 [mofald](http://103.69.124.141/) and
 [localboundries.oknp.org](http://localboundries.oknp.org/) as there were
-certain municipalites missing in one source while present in another.
-Each geojson feature contains the following properties. `wards` is count
-of wards in that particular municipality.
+certain municipalites missing in one source while present in another and
+vice-versa. Each geojson feature contains the following properties.
+`wards` is count of wards in that particular municipality.
 
 ``` json
 {
@@ -26,9 +26,9 @@ of wards in that particular municipality.
 ```
 
 There are 2 geojson files - high resolution
-[municipalites.high.geojson](%22out/municipalities.high.geojson%22)
-\[44.71 MB\] and simplified
-[municipalities.simplified.geojson](%22out/municipalities.simplified.geojson%22)
+[municipalites.high.geojson](out/municipalities.high.geojson) \[44.71
+MB\] and simplified
+[municipalities.simplified.geojson](out/municipalities.simplified.geojson)
 \[3.46 MB\]. Use the one appropriate for you.
 
 You may use the [municapalities.csv](out/municapalities.csv) for names
@@ -37,7 +37,7 @@ and codes only if you don’t need coordinates data.
 ## Inside Geojson
 
 There are 775 entries (instead of 753) in
-[geojson](out/out/municipalities.simplified.geojson) and
+[geojson](out/municipalities.simplified.geojson) and
 [csv](out/municapalities.csv) file. That’s because there are other areas
 besides municipalities.
 
