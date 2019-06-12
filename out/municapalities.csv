@@ -1,0 +1,776 @@
+"locallevel_fullcode","province","district_code","district","locallevel_code","locallevel_name","locallevel_name_nepali","locallevel_type","wards"
+10101,1,1,"Taplejung",1,"Aathrai Tribeni","आठराई त्रिवेणी गाउँपालिका","Gaunpalika",5
+10102,1,1,"Taplejung",2,"Maiwakhola","मैवाखोला गाउँपालिका","Gaunpalika",6
+10103,1,1,"Taplejung",3,"Meringden","मेरिङदेन गाउँपालिका","Gaunpalika",6
+10104,1,1,"Taplejung",4,"Mikwakhola","मिक्वाखोला गाउँपालिका","Gaunpalika",5
+10105,1,1,"Taplejung",5,"Phaktanglung","फक्ताङलुङ गाउँपालिका","Gaunpalika",7
+10106,1,1,"Taplejung",6,"Phungling","फुङलिङ नगरपालिका","Nagarpalika",11
+10107,1,1,"Taplejung",7,"Sidingba","सिदिङ्वा गाउँपालिका","Gaunpalika",7
+10108,1,1,"Taplejung",8,"Sirijangha","सिरीजङ्घा गाउँपालिका","Gaunpalika",8
+10109,1,1,"Taplejung",9,"Yangwarak","याङवरक गाउँपालिका","Gaunpalika",6
+10201,1,2,"Panchthar",1,"Falelung","फालेलुंग गाउँपालिका","Gaunpalika",8
+10202,1,2,"Panchthar",2,"Falgunanda","फाल्गुनन्द गाउँपालिका","Gaunpalika",7
+10203,1,2,"Panchthar",3,"Hilihang","हिलिहाङ गाउँपालिका","Gaunpalika",7
+10204,1,2,"Panchthar",4,"Kummayak","कुम्मायक गाउँपालिका","Gaunpalika",5
+10205,1,2,"Panchthar",5,"Miklajung","मिक्लाजुङ गाउँपालिका","Gaunpalika",NA
+10206,1,2,"Panchthar",6,"Phidim","फिदिम नगरपालिका","Nagarpalika",14
+10207,1,2,"Panchthar",7,"Tumbewa","तुम्बेवा गाउँपालिका","Gaunpalika",5
+10208,1,2,"Panchthar",8,"Yangwarak","याङवरक गाउँपालिका","Gaunpalika",6
+10301,1,3,"Ilam",1,"Chulachuli","चुलाचुली गाउँपालिका","Gaunpalika",6
+10302,1,3,"Ilam",2,"Deumai","देउमाई नगरपालिका","Nagarpalika",9
+10303,1,3,"Ilam",3,"Fakphokthum","फाकफोकथुम गाउँपालिका","Gaunpalika",7
+10304,1,3,"Ilam",4,"Illam","ईलाम नगरपालिका","Nagarpalika",12
+10305,1,3,"Ilam",5,"Mai","माई नगरपालिका","Nagarpalika",10
+10306,1,3,"Ilam",6,"Maijogmai","माईजोगमाई गाउँपालिका","Gaunpalika",6
+10307,1,3,"Ilam",7,"Mangsebung","माङसेबुङ गाउँपालिका","Gaunpalika",6
+10308,1,3,"Ilam",8,"Rong","रोङ गाउँपालिका","Gaunpalika",6
+10309,1,3,"Ilam",9,"Sandakpur","सन्दकपुर गाउँपालिका","Gaunpalika",5
+10310,1,3,"Ilam",10,"Suryodaya","सूर्योदय नगरपालिका","Nagarpalika",14
+10401,1,4,"Jhapa",1,"Arjundhara","अर्जुनधारा नगरपालिका","Nagarpalika",11
+10402,1,4,"Jhapa",2,"Barhadashi","बाह्रदशी गाउँपालिका","Gaunpalika",7
+10403,1,4,"Jhapa",3,"Bhadrapur","भद्रपुर नगरपालिका","Nagarpalika",10
+10404,1,4,"Jhapa",4,"Birtamod","विर्तामोड नगरपालिका","Nagarpalika",10
+10405,1,4,"Jhapa",5,"Buddhashanti","बुद्धशान्ति गाउँपालिका","Gaunpalika",7
+10406,1,4,"Jhapa",6,"Damak","दमक नगरपालिका","Nagarpalika",10
+10407,1,4,"Jhapa",7,"Gauradhaha","गौरादह नगरपालिका","Nagarpalika",9
+10408,1,4,"Jhapa",8,"Gauriganj","गौरीगंज गाउँपालिका","Gaunpalika",6
+10409,1,4,"Jhapa",9,"Haldibari","हल्दिवारी गाउँपालिका","Gaunpalika",5
+10410,1,4,"Jhapa",10,"Jhapa","झापा गाउँपालिका","Gaunpalika",7
+10411,1,4,"Jhapa",11,"Kachankawal","कचनकवल गाउँपालिका","Gaunpalika",7
+10412,1,4,"Jhapa",12,"Kamal","कमल गाउँपालिका","Gaunpalika",7
+10413,1,4,"Jhapa",13,"Kankai","कन्काई नगरपालिका","Nagarpalika",9
+10414,1,4,"Jhapa",14,"Mechinagar","मेचीनगर नगरपालिका","Nagarpalika",15
+10415,1,4,"Jhapa",15,"Shivasataxi","शिवशताक्षी नगरपालिका","Nagarpalika",11
+10501,1,5,"Morang",1,"Belbari","बेलवारी नगरपालिका","Nagarpalika",11
+10502,1,5,"Morang",2,"Biratnagar","विराटनगर महानगरपालिका","Mahanagarpalika",19
+10503,1,5,"Morang",3,"Budhiganga","बुढीगंगा गाउँपालिका","Gaunpalika",9
+10504,1,5,"Morang",4,"Dhanpalthan","धनपालथान गाउँपालिका","Gaunpalika",7
+10505,1,5,"Morang",5,"Gramthan","ग्रामथान गाउँपालिका","Gaunpalika",7
+10506,1,5,"Morang",6,"Jahada","जहदा गाउँपालिका","Gaunpalika",7
+10507,1,5,"Morang",7,"Kanepokhari","कानेपोखरी गाउँपालिका","Gaunpalika",7
+10508,1,5,"Morang",8,"Katahari","कटहरी गाउँपालिका","Gaunpalika",7
+10509,1,5,"Morang",9,"Kerabari","केरावारी गाउँपालिका","Gaunpalika",10
+10510,1,5,"Morang",10,"Letang","लेटाङ नगरपालिका","Nagarpalika",9
+10511,1,5,"Morang",11,"Miklajung","मिक्लाजुङ गाउँपालिका","Gaunpalika",9
+10512,1,5,"Morang",12,"Patahrishanishchare","पथरी शनिश्चरे नगरपालिका","Nagarpalika",10
+10513,1,5,"Morang",13,"Rangeli","रंगेली नगरपालिका","Nagarpalika",9
+10514,1,5,"Morang",14,"Ratuwamai","रतुवामाई नगरपालिका","Nagarpalika",10
+10515,1,5,"Morang",15,"Sundarharaicha","सुनवर्षि नगरपालिका","Nagarpalika",12
+10516,1,5,"Morang",16,"Sunwarshi","सुन्दरहरैचा नगरपालिका","Nagarpalika",9
+10517,1,5,"Morang",17,"Uralabari","उर्लावारी नगरपालिका","Nagarpalika",9
+10601,1,6,"Sunsari",1,"Barah","बराह नगरपालिका","Nagarpalika",11
+10602,1,6,"Sunsari",2,"Barju","बर्जु गाउँपालिका","Gaunpalika",6
+10603,1,6,"Sunsari",3,"Bhokraha","भोक्राहा गाउँपालिका","Gaunpalika",8
+10604,1,6,"Sunsari",4,"Dewanganj","देवानगञ्ज गाउँपालिका","Gaunpalika",7
+10605,1,6,"Sunsari",5,"Dharan","धरान उपमहानगरपालिका","Upamahanagarpalika",20
+10606,1,6,"Sunsari",6,"Duhabi","दुहवी नगरपालिका","Nagarpalika",12
+10607,1,6,"Sunsari",7,"Gadhi","गढी गाउँपालिका","Gaunpalika",6
+10608,1,6,"Sunsari",8,"Harinagara","हरिनगरा गाउँपालिका","Gaunpalika",7
+10609,1,6,"Sunsari",9,"Inaruwa","ईनरुवा नगरपालिका","Nagarpalika",10
+10610,1,6,"Sunsari",10,"Itahari","ईटहरी उपमहानगरपालिका","Upamahanagarpalika",20
+10611,1,6,"Sunsari",11,"Koshi","कोशी गाउँपालिका","Gaunpalika",8
+10612,1,6,"Sunsari",12,"Ramdhuni","रामधुनी नगरपालिका","Nagarpalika",9
+10688,1,6,"Sunsari",88,"Koshi Tappu Wildlife Reserve","","Wildlife Reserve",NA
+10701,1,7,"Dhankuta",1,"Chaubise","चौविसे गाउँपालिका","Gaunpalika",8
+10702,1,7,"Dhankuta",2,"Chhathar Jorpati","छथर जोरपाटी गाउँपालिका","Gaunpalika",6
+10703,1,7,"Dhankuta",3,"Dhankuta","धनकुटा नगरपालिका","Nagarpalika",10
+10704,1,7,"Dhankuta",4,"Khalsa Chhintang Shahidbhumi","खाल्सा छिन्ताङ सहिदभूमि गाउँपालिका","Gaunpalika",7
+10705,1,7,"Dhankuta",5,"Mahalaxmi","महालक्ष्मी नगरपालिका","Nagarpalika",9
+10706,1,7,"Dhankuta",6,"Pakhribas","पाख्रिबास नगरपालिका","Nagarpalika",10
+10707,1,7,"Dhankuta",7,"Sangurigadhi","साँगुरीगढी गाउँपालिका","Gaunpalika",10
+10801,1,8,"Terhathum",1,"Aathrai","आठराई गाउँपालिका","Gaunpalika",7
+10802,1,8,"Terhathum",2,"Chhathar","छथर गाउँपालिका","Gaunpalika",6
+10803,1,8,"Terhathum",3,"Laligurans","लालीगुराँस नगरपालिका","Nagarpalika",9
+10804,1,8,"Terhathum",4,"Menchayam","मेन्छयायेम गाउँपालिका","Gaunpalika",6
+10805,1,8,"Terhathum",5,"Myanglung","म्याङलुङ नगरपालिका","Nagarpalika",10
+10806,1,8,"Terhathum",6,"Phedap","फेदाप गाउँपालिका","Gaunpalika",5
+10901,1,9,"Sankhuwasabha",1,"Bhotkhola","भोटखोला गाउँपालिका","Gaunpalika",5
+10902,1,9,"Sankhuwasabha",2,"Chainpur","चैनपुर नगरपालिका","Nagarpalika",11
+10903,1,9,"Sankhuwasabha",3,"Chichila","चिचिला गाउँपालिका","Gaunpalika",5
+10904,1,9,"Sankhuwasabha",4,"Dharmadevi","धर्मदेवी नगरपालिका","Nagarpalika",9
+10905,1,9,"Sankhuwasabha",5,"Khandbari","खाँदवारी नगरपालिका","Nagarpalika",11
+10906,1,9,"Sankhuwasabha",6,"Madi","मादी नगरपालिका","Nagarpalika",9
+10907,1,9,"Sankhuwasabha",7,"Makalu","मकालु गाउँपालिका","Gaunpalika",6
+10908,1,9,"Sankhuwasabha",8,"Panchakhapan","पाँचखपन नगरपालिका","Nagarpalika",9
+10909,1,9,"Sankhuwasabha",9,"Sabhapokhari","सभापोखरी गाउँपालिका","Gaunpalika",6
+10910,1,9,"Sankhuwasabha",10,"Silichong","सिलीचोङ गाउँपालिका","Gaunpalika",5
+11001,1,10,"Bhojpur",1,"Aamchowk","आमचोक गाउँपालिका","Gaunpalika",10
+11002,1,10,"Bhojpur",2,"Arun","अरुण गाउँपालिका","Gaunpalika",7
+11003,1,10,"Bhojpur",3,"Bhojpur","भोजपुर नगरपालिका","Nagarpalika",12
+11004,1,10,"Bhojpur",4,"Hatuwagadhi","हतुवागढी गाउँपालिका","Gaunpalika",9
+11005,1,10,"Bhojpur",5,"Pauwadungma","पौवादुङमा गाउँपालिका","Gaunpalika",6
+11006,1,10,"Bhojpur",6,"Ramprasad Rai","रामप्रसाद राई गाउँपालिका","Gaunpalika",8
+11007,1,10,"Bhojpur",7,"Salpasilichho","साल्पासिलिछो गाउँपालिका","Gaunpalika",6
+11008,1,10,"Bhojpur",8,"Shadananda","षडानन्द नगरपालिका","Nagarpalika",14
+11009,1,10,"Bhojpur",9,"Tyamkemaiyung","ट्याम्केमैयुम गाउँपालिका","Gaunpalika",9
+11101,1,11,"Solukhumbu",1,"Dudhkaushika","दुधकौशिका गाउँपालिका","Gaunpalika",9
+11102,1,11,"Solukhumbu",2,"Dudhkoshi","दुधकोसी गाउँपालिका","Gaunpalika",7
+11103,1,11,"Solukhumbu",3,"Khumbupasanglahmu","खुम्वु पासाङल्हमु गाउँपालिका","Gaunpalika",5
+11104,1,11,"Solukhumbu",4,"Likhupike","लिखु पिके गाउँपालिका","Gaunpalika",5
+11105,1,11,"Solukhumbu",5,"Mahakulung","माहाकुलुङ गाउँपालिका","Gaunpalika",5
+11106,1,11,"Solukhumbu",6,"Nechasalyan","नेचासल्यान गाउँपालिका","Gaunpalika",6
+11107,1,11,"Solukhumbu",7,"Solududhakunda","सोलुदुधकुण्ड नगरपालिका","Nagarpalika",10
+11108,1,11,"Solukhumbu",8,"Sotang","सोताङ गाउँपालिका","Gaunpalika",5
+11201,1,12,"Okhaldhunga",1,"Champadevi","चम्पादेवी गाउँपालिका","Gaunpalika",10
+11202,1,12,"Okhaldhunga",2,"Chisankhugadhi","चिशंखुगढी गाउँपालिका","Gaunpalika",8
+11203,1,12,"Okhaldhunga",3,"Khijidemba","खिजिदेम्बा गाउँपालिका","Gaunpalika",9
+11204,1,12,"Okhaldhunga",4,"Likhu","लिखु गाउँपालिका","Gaunpalika",NA
+11205,1,12,"Okhaldhunga",5,"Manebhanjyang","मानेभञ्याङ गाउँपालिका","Gaunpalika",9
+11206,1,12,"Okhaldhunga",6,"Molung","मोलुङ गाउँपालिका","Gaunpalika",8
+11207,1,12,"Okhaldhunga",7,"Siddhicharan","सिद्दिचरण नगरपालिका","Nagarpalika",12
+11208,1,12,"Okhaldhunga",8,"Sunkoshi","सुनकोशी गाउँपालिका","Gaunpalika",10
+11301,1,13,"Khotang",1,"Ainselukhark","ऐसेलुखर्क गाउँपालिका","Gaunpalika",7
+11302,1,13,"Khotang",2,"Barahapokhari","वराहपोखरी गाउँपालिका","Gaunpalika",6
+11303,1,13,"Khotang",3,"Diprung","दिप्रुङ गाउँपालिका","Gaunpalika",7
+11304,1,13,"Khotang",4,"Halesi Tuwachung","हलेसी तुवाचुङ नगरपालिका","Nagarpalika",11
+11305,1,13,"Khotang",5,"Jantedhunga","जन्तेढुंगा गाउँपालिका","Gaunpalika",6
+11306,1,13,"Khotang",6,"Kepilasagadhi","केपिलासगढी गाउँपालिका","Gaunpalika",7
+11307,1,13,"Khotang",7,"Khotehang","खोटेहाङ गाउँपालिका","Gaunpalika",9
+11308,1,13,"Khotang",8,"Lamidanda","लामीडाँडा गाउँपालिका","Gaunpalika",6
+11309,1,13,"Khotang",9,"Rupakot Majhuwagadhi","रुपाकोट मझुवागढी नगरपालिका","Nagarpalika",15
+11310,1,13,"Khotang",10,"Sakela","साकेला गाउँपालिका","Gaunpalika",5
+11401,1,14,"Udayapur",1,"Belaka","वेलका नगरपालिका","Nagarpalika",9
+11402,1,14,"Udayapur",2,"Chaudandigadhi","चौदण्डीगढी नगरपालिका","Nagarpalika",10
+11403,1,14,"Udayapur",3,"Katari","कटारी नगरपालिका","Nagarpalika",14
+11404,1,14,"Udayapur",4,"Rautamai","रौतामाई गाउँपालिका","Gaunpalika",8
+11405,1,14,"Udayapur",5,"Sunkoshi","सुनकोशी गाउँपालिका","Gaunpalika",5
+11406,1,14,"Udayapur",6,"Tapli","ताप्ली गाउँपालिका","Gaunpalika",5
+11407,1,14,"Udayapur",7,"Triyuga","त्रियुगा नगरपालिका","Nagarpalika",16
+11408,1,14,"Udayapur",8,"Udayapurgadhi","उदयपुरगढी गाउँपालिका","Gaunpalika",8
+11488,1,14,"Udayapur",88,"Koshi Tappu Wildlife Reserve","","Wildlife Reserve",NA
+21501,2,15,"Saptari",1,"Agnisair Krishna Savaran","अग्निसाइर कृष्णासवरन गाउँपालिका","Gaunpalika",6
+21502,2,15,"Saptari",2,"Balan Bihul","बलान-बिहुल गाउँपालिका","Gaunpalika",6
+21503,2,15,"Saptari",3,"Belhi Chapena","बेल्ही चपेना गाउँपालिका","Gaunpalika",6
+21504,2,15,"Saptari",4,"Bishnupur","बिष्णुपुर गाउँपालिका","Gaunpalika",7
+21505,2,15,"Saptari",5,"Bode Barsain","बोदेबरसाईन नगरपालिका","Nagarpalika",10
+21506,2,15,"Saptari",6,"Chhinnamasta","छिन्नमस्ता गाउँपालिका","Gaunpalika",7
+21507,2,15,"Saptari",7,"Dakneshwori","डाक्नेश्वरी नगरपालिका","Nagarpalika",10
+21508,2,15,"Saptari",8,"Hanumannagar Kankalini","हनुमाननगर कङ्‌कालिनी नगरपालिका","Nagarpalika",14
+21509,2,15,"Saptari",9,"Kanchanrup","कञ्चनरुप नगरपालिका","Nagarpalika",12
+21510,2,15,"Saptari",10,"Khadak","खडक नगरपालिका","Nagarpalika",11
+21511,2,15,"Saptari",11,"Mahadeva","महादेवा गाउँपालिका","Gaunpalika",6
+21512,2,15,"Saptari",12,"Rajbiraj","राजविराज नगरपालिका","Nagarpalika",16
+21513,2,15,"Saptari",13,"Rupani","रुपनी गाउँपालिका","Gaunpalika",6
+21514,2,15,"Saptari",14,"Saptakoshi","सप्तकोशी नगरपालिका","Gaunpalika",11
+21515,2,15,"Saptari",15,"Shambhunath","शम्भुनाथ नगरपालिका","Nagarpalika",12
+21516,2,15,"Saptari",16,"Surunga","सुरुङ्‍गा नगरपालिका","Nagarpalika",11
+21517,2,15,"Saptari",17,"Tilathi Koiladi","तिलाठी कोईलाडी गाउँपालिका","Gaunpalika",8
+21518,2,15,"Saptari",18,"Tirahut","तिरहुत गाउँपालिका","Gaunpalika",5
+21588,2,15,"Saptari",88,"Koshi Tappu Wildlife Reserve","","Wildlife Reserve",NA
+21601,2,16,"Siraha",1,"Arnama","अर्नमा गाउँपालिका","Gaunpalika",5
+21602,2,16,"Siraha",2,"Aurahi","औरही गाउँपालिका","Gaunpalika",5
+21603,2,16,"Siraha",3,"Bariyarpatti","बरियारपट्टी गाउँपालिका","Gaunpalika",5
+21604,2,16,"Siraha",4,"Bhagawanpur","भगवानपुर गाउँपालिका","Gaunpalika",5
+21605,2,16,"Siraha",5,"Bishnupur","बिष्णुपुर गाउँपालिका","Gaunpalika",5
+21606,2,16,"Siraha",6,"Dhangadhimai","धनगढीमाई नगरपालिका","Nagarpalika",14
+21607,2,16,"Siraha",7,"Golbazar","गोलबजार नगरपालिका","Nagarpalika",13
+21608,2,16,"Siraha",8,"Kalyanpur","कल्याणपुर नगरपालिका","Nagarpalika",12
+21609,2,16,"Siraha",9,"Karjanha","कर्जन्हा नगरपालिका","Nagarpalika",11
+21610,2,16,"Siraha",10,"Lahan","लहान नगरपालिका","Nagarpalika",24
+21611,2,16,"Siraha",11,"Laxmipur Patari","लक्ष्मीपुर पतारी गाउँपालिका","Gaunpalika",6
+21612,2,16,"Siraha",12,"Mirchaiya","मिर्चैयाँ नगरपालिका","Nagarpalika",12
+21613,2,16,"Siraha",13,"Naraha","नरहा गाउँपालिका","Gaunpalika",5
+21614,2,16,"Siraha",14,"Nawarajpur","नवराजपुर गाउँपालिका","Gaunpalika",5
+21615,2,16,"Siraha",15,"Sakhuwanankarkatti","सखुवानान्कारकट्टी गाउँपालिका","Gaunpalika",5
+21616,2,16,"Siraha",16,"Siraha","सिरहा नगरपालिका","Nagarpalika",22
+21617,2,16,"Siraha",17,"Sukhipur","सुखीपुर नगरपालिका","Nagarpalika",10
+21701,2,17,"Dhanusha",1,"Aaurahi","औरही गाउँपालिका","Gaunpalika",6
+21702,2,17,"Dhanusha",2,"Bateshwor","बटेश्वर गाउँपालिका","Gaunpalika",5
+21703,2,17,"Dhanusha",3,"Bideha","विदेह नगरपालिका","Nagarpalika",9
+21704,2,17,"Dhanusha",4,"Chhireshwornath","क्षिरेश्वरनाथ नगरपालिका","Nagarpalika",10
+21705,2,17,"Dhanusha",5,"Dhanauji","धनौजी गाउँपालिका","Gaunpalika",5
+21706,2,17,"Dhanusha",6,"Dhanusadham","धनुषाधाम नगरपालिका","Nagarpalika",9
+21707,2,17,"Dhanusha",7,"Ganeshman Charnath","गणेशमान चारनाथ नगरपालिका","Nagarpalika",11
+21708,2,17,"Dhanusha",8,"Hansapur","हंसपुर नगरपालिका","Nagarpalika",9
+21709,2,17,"Dhanusha",9,"Janaknandani","जनकनन्दिनी गाउँपालिका","Gaunpalika",6
+21710,2,17,"Dhanusha",10,"Janakpur","जनकपुर उपमहानगरपालिका","Upamahanagarpalika",25
+21711,2,17,"Dhanusha",11,"Kamala","कमला नगरपालिका","Nagarpalika",9
+21712,2,17,"Dhanusha",12,"Lakshminiya","लक्ष्मीनिया गाउँपालिका","Gaunpalika",7
+21713,2,17,"Dhanusha",13,"Mithila","मिथिला नगरपालिका","Nagarpalika",11
+21714,2,17,"Dhanusha",14,"Mithila Bihari","मिथिला बिहारी नगरपालिका","Nagarpalika",10
+21715,2,17,"Dhanusha",15,"Mukhiyapatti Musarmiya","मुखियापट्टी मुसहरमिया गाउँपालिका","Gaunpalika",6
+21716,2,17,"Dhanusha",16,"Nagarain","नगराइन नगरपालिका","Nagarpalika",9
+21717,2,17,"Dhanusha",17,"Sabaila","सबैला नगरपालिका","Nagarpalika",13
+21718,2,17,"Dhanusha",18,"Sahidnagar","शहीदनगर नगरपालिका","Nagarpalika",9
+21801,2,18,"Mahottari",1,"Aurahi","औरही गाउँपालिका","Nagarpalika",9
+21802,2,18,"Mahottari",2,"Balwa","बलवा नगरपालिका","Nagarpalika",11
+21803,2,18,"Mahottari",3,"Bardibas","बर्दिबास नगरपालिका","Nagarpalika",14
+21804,2,18,"Mahottari",4,"Bhangaha","भँगाहा नगरपालिका","Nagarpalika",9
+21805,2,18,"Mahottari",5,"Ekdanra","एकडारा गाउँपालिका","Gaunpalika",6
+21806,2,18,"Mahottari",6,"Gaushala","गौशाला नगरपालिका","Nagarpalika",12
+21807,2,18,"Mahottari",7,"Jaleswor","जलेश्वर नगरपालिका","Nagarpalika",12
+21808,2,18,"Mahottari",8,"Loharpatti","लोहरपट्टी नगरपालिका","Nagarpalika",9
+21809,2,18,"Mahottari",9,"Mahottari","महोत्तरी गाउँपालिका","Gaunpalika",6
+21810,2,18,"Mahottari",10,"Manra Siswa","मनरा शिसवा नगरपालिका","Nagarpalika",10
+21811,2,18,"Mahottari",11,"Matihani","मटिहानी नगरपालिका","Nagarpalika",9
+21812,2,18,"Mahottari",12,"Pipra","पिपरा गाउँपालिका","Gaunpalika",7
+21813,2,18,"Mahottari",13,"Ramgopalpur","रामगोपालपुर नगरपालिका","Nagarpalika",9
+21814,2,18,"Mahottari",14,"Samsi","साम्सी गाउँपालिका","Gaunpalika",7
+21815,2,18,"Mahottari",15,"Sonama","सोनमा गाउँपालिका","Gaunpalika",8
+21901,2,19,"Sarlahi",1,"Bagmati","बागमती नगरपालिका","Nagarpalika",12
+21902,2,19,"Sarlahi",2,"Balara","बलरा नगरपालिका","Nagarpalika",11
+21903,2,19,"Sarlahi",3,"Barahathawa","बरहथवा नगरपालिका","Nagarpalika",18
+21904,2,19,"Sarlahi",4,"Basbariya","बसबरीया गाउँपालिका","Gaunpalika",6
+21905,2,19,"Sarlahi",5,"Bishnu","विष्णु गाउँपालिका","Gaunpalika",8
+21906,2,19,"Sarlahi",6,"Bramhapuri","ब्रह्मपुरी गाउँपालिका","Gaunpalika",7
+21907,2,19,"Sarlahi",7,"Chakraghatta","चक्रघट्टा गाउँपालिका","Gaunpalika",9
+21908,2,19,"Sarlahi",8,"Chandranagar","चन्द्रनगर गाउँपालिका","Gaunpalika",7
+21909,2,19,"Sarlahi",9,"Dhankaul","धनकौल गाउँपालिका","Gaunpalika",7
+21910,2,19,"Sarlahi",10,"Godaita","गोडैटा नगरपालिका","Nagarpalika",12
+21911,2,19,"Sarlahi",11,"Haripur","हरिपुर नगरपालिका","Nagarpalika",9
+21912,2,19,"Sarlahi",12,"Haripurwa","हरिपुर्वा नगरपालिका","Nagarpalika",9
+21913,2,19,"Sarlahi",13,"Hariwan","हरिवन नगरपालिका","Nagarpalika",11
+21914,2,19,"Sarlahi",14,"Ishworpur","ईश्वरपुर नगरपालिका","Nagarpalika",15
+21915,2,19,"Sarlahi",15,"Kabilasi","कविलासी नगरपालिका","Nagarpalika",10
+21916,2,19,"Sarlahi",16,"Kaudena","कौडेना गाउँपालिका","Gaunpalika",7
+21917,2,19,"Sarlahi",17,"Lalbandi","लालबन्दी नगरपालिका","Nagarpalika",17
+21918,2,19,"Sarlahi",18,"Malangawa","मलंगवा नगरपालिका","Nagarpalika",12
+21919,2,19,"Sarlahi",19,"Parsa","पर्सा गाउँपालिका","Gaunpalika",6
+21920,2,19,"Sarlahi",20,"Ramnagar","रामनगर गाउँपालिका","Gaunpalika",7
+23201,2,32,"Rautahat",1,"Baudhimai","बौधीमाई नगरपालिका","Nagarpalika",9
+23202,2,32,"Rautahat",2,"Brindaban","बृन्दावन नगरपालिका","Nagarpalika",9
+23203,2,32,"Rautahat",3,"Chandrapur","चन्द्रपुर नगरपालिका","Nagarpalika",10
+23204,2,32,"Rautahat",4,"Dewahhi Gonahi","देवाही गोनाही नगरपालिका","Nagarpalika",9
+23205,2,32,"Rautahat",5,"Durga Bhagwati","दुर्गा भगवती गाउँपालिका","Gaunpalika",5
+23206,2,32,"Rautahat",6,"Gadhimai","गढीमाई नगरपालिका","Nagarpalika",9
+23207,2,32,"Rautahat",7,"Garuda","गरुडा नगरपालिका","Nagarpalika",9
+23208,2,32,"Rautahat",8,"Gaur","गौर नगरपालिका","Nagarpalika",9
+23209,2,32,"Rautahat",9,"Gujara","गुजरा नगरपालिका","Nagarpalika",9
+23210,2,32,"Rautahat",10,"Ishanath","ईशनाथ नगरपालिका","Nagarpalika",9
+23211,2,32,"Rautahat",11,"Katahariya","कटहरिया नगरपालिका","Nagarpalika",9
+23212,2,32,"Rautahat",12,"Madhav Narayan","माधव नारायण नगरपालिका","Nagarpalika",9
+23213,2,32,"Rautahat",13,"Maulapur","मौलापुर नगरपालिका","Nagarpalika",9
+23214,2,32,"Rautahat",14,"Paroha","परोहा नगरपालिका","Nagarpalika",9
+23215,2,32,"Rautahat",15,"Phatuwa Bijayapur","फतुवाबिजयपुर नगरपालिका","Nagarpalika",11
+23216,2,32,"Rautahat",16,"Rajdevi","राजदेवी नगरपालिका","Nagarpalika",9
+23217,2,32,"Rautahat",17,"Rajpur","राजपुर नगरपालिका","Nagarpalika",9
+23218,2,32,"Rautahat",18,"Yemunamai","यमुनामाई गाउँपालिका","Gaunpalika",5
+23301,2,33,"Bara",1,"Adarshkotwal","आदर्श कोटवाल गाउँपालिका","Gaunpalika",8
+23302,2,33,"Bara",2,"Baragadhi","बारागढीगाउँपालिका","Gaunpalika",6
+23303,2,33,"Bara",3,"Bishrampur","विश्रामपुर गाउँपालिका","Gaunpalika",5
+23304,2,33,"Bara",4,"Devtal","देवताल गाउँपालिका","Gaunpalika",7
+23305,2,33,"Bara",5,"Jitpur Simara","जीतपुरसिमरा उपमहानगरपालिका","Upamahanagarpalika",24
+23306,2,33,"Bara",6,"Kalaiya","कलैया उपमहानगरपालिका","Upamahanagarpalika",27
+23307,2,33,"Bara",7,"Karaiyamai","करैयामाई गाउँपालिका","Gaunpalika",8
+23308,2,33,"Bara",8,"Kolhabi","कोल्हवी नगरपालिका","Nagarpalika",11
+23309,2,33,"Bara",9,"Mahagadhimai","महागढीमाई नगरपालिका","Nagarpalika",11
+23310,2,33,"Bara",10,"Nijgadh","निजगढ नगरपालिका","Nagarpalika",13
+23311,2,33,"Bara",11,"Pacharauta","पचरौता नगरपालिका","Nagarpalika",9
+23312,2,33,"Bara",12,"Parwanipur","परवानीपुर गाउँपालिका","Gaunpalika",5
+23313,2,33,"Bara",13,"Pheta","फेटा गाउँपालिका","Gaunpalika",7
+23314,2,33,"Bara",14,"Prasauni","प्रसौनी गाउँपालिका","Gaunpalika",7
+23315,2,33,"Bara",15,"Simraungadh","सिम्रौनगढ नगरपालिका","Nagarpalika",11
+23316,2,33,"Bara",16,"Suwarna","सुवर्ण गाउँपालिका","Gaunpalika",8
+23388,2,33,"Bara",88,"Parsa Wildlife Reserve","","Wildlife Reserve",NA
+23401,2,34,"Parsa",1,"Bahudaramai","बहुदरमाई नगरपालिका","Nagarpalika",9
+23402,2,34,"Parsa",2,"Bindabasini","बिन्दबासिनी गाउँपालिका","Gaunpalika",5
+23403,2,34,"Parsa",3,"Birgunj","बिरगंज महानगरपालिका","Mahanagarpalika",32
+23404,2,34,"Parsa",4,"Chhipaharmai","छिपहरमाई गाउँपालिका","Gaunpalika",5
+23405,2,34,"Parsa",5,"Dhobini","धोबीनी गाउँपालिका","Gaunpalika",5
+23406,2,34,"Parsa",6,"Jagarnathpur","जगरनाथपुर गाउँपालिका","Gaunpalika",6
+23407,2,34,"Parsa",7,"Jirabhawani","जिरा भवानी गाउँपालिका","Gaunpalika",5
+23408,2,34,"Parsa",8,"Kalikamai","कालिकामाई गाउँपालिका","Gaunpalika",5
+23409,2,34,"Parsa",9,"Pakahamainpur","पकाहा मैनपुर गाउँपालिका","Gaunpalika",5
+23410,2,34,"Parsa",10,"Parsagadhi","पर्सागढी नगरपालिका","Nagarpalika",9
+23411,2,34,"Parsa",11,"Paterwasugauli","पटेर्वा सुगौली गाउँपालिका","Gaunpalika",5
+23412,2,34,"Parsa",12,"Pokhariya","पोखरिया नगरपालिका","Nagarpalika",10
+23413,2,34,"Parsa",13,"SakhuwaPrasauni","सखुवा प्रसौनी गाउँपालिका","Gaunpalika",6
+23414,2,34,"Parsa",14,"Thori","ठोरी गाउँपालिका","Gaunpalika",5
+23499,2,34,"Parsa",99,"Chitwan National Park","","National Park",NA
+32001,3,20,"Sindhuli",1,"Dudhouli","दुधौली नगरपालिका","Nagarpalika",14
+32002,3,20,"Sindhuli",2,"Ghanglekh","घ्याङलेख गाउँपालिका","Gaunpalika",5
+32003,3,20,"Sindhuli",3,"Golanjor","गोलन्जर गाउँपालिका","Gaunpalika",7
+32004,3,20,"Sindhuli",4,"Hariharpurgadhi","हरिहरपुरगढी गाउँपालिका","Gaunpalika",8
+32005,3,20,"Sindhuli",5,"Kamalamai","कमलामाई नगरपालिका","Nagarpalika",14
+32006,3,20,"Sindhuli",6,"Marin","मरिण गाउँपालिका","Gaunpalika",7
+32007,3,20,"Sindhuli",7,"Phikkal","फिक्कल गाउँपालिका","Gaunpalika",6
+32008,3,20,"Sindhuli",8,"Sunkoshi","सुनकोशी गाउँपालिका","Gaunpalika",7
+32009,3,20,"Sindhuli",9,"Tinpatan","तीनपाटन गाउँपालिका","Gaunpalika",11
+32101,3,21,"Ramechhap",1,"Doramba","दोरम्बा गाउँपालिका","Gaunpalika",7
+32102,3,21,"Ramechhap",2,"Gokulganga","गोकुलगङ्गा गाउँपालिका","Gaunpalika",6
+32103,3,21,"Ramechhap",3,"Khadadevi","खाँडादेवी गाउँपालिका","Gaunpalika",9
+32104,3,21,"Ramechhap",4,"Likhu","लिखु गाउँपालिका","Gaunpalika",7
+32105,3,21,"Ramechhap",5,"Manthali","मन्थली नगरपालिका","Nagarpalika",14
+32106,3,21,"Ramechhap",6,"Ramechhap","रामेछाप नगरपालिका","Nagarpalika",9
+32107,3,21,"Ramechhap",7,"Sunapati","सुनापती गाउँपालिका","Gaunpalika",5
+32108,3,21,"Ramechhap",8,"Umakunda","उमाकुण्ड गाउँपालिका","Gaunpalika",7
+32201,3,22,"Dolakha",1,"Baiteshwor","वैतेश्वर गाउँपालिका","Gaunpalika",8
+32202,3,22,"Dolakha",2,"Bhimeshwor","भिमेश्वर नगरपालिका","Nagarpalika",9
+32203,3,22,"Dolakha",3,"Bigu","विगु गाउँपालिका","Gaunpalika",8
+32204,3,22,"Dolakha",4,"Gaurishankar","गौरीशङ्कर गाउँपालिका","Gaunpalika",9
+32205,3,22,"Dolakha",5,"Jiri","जिरी नगरपालिका","Nagarpalika",9
+32206,3,22,"Dolakha",6,"Kalinchok","कालिन्चोक गाउँपालिका","Gaunpalika",9
+32207,3,22,"Dolakha",7,"Melung","मेलुङ्ग गाउँपालिका","Gaunpalika",7
+32208,3,22,"Dolakha",8,"Sailung","शैलुङ्ग गाउँपालिका","Gaunpalika",8
+32209,3,22,"Dolakha",9,"Tamakoshi","तामाकोशी गाउँपालिका","Gaunpalika",7
+32301,3,23,"Sindhupalchok",1,"Balefi","बलेफी गाउँपालिका","Gaunpalika",8
+32302,3,23,"Sindhupalchok",2,"Barhabise","बाह्रविसे नगरपालिका","Nagarpalika",9
+32303,3,23,"Sindhupalchok",3,"Bhotekoshi","भोटेकोशी गाउँपालिका","Gaunpalika",5
+32304,3,23,"Sindhupalchok",4,"Chautara SangachokGadhi","चौतारा साँगाचोकगढी नगरपालिका","Nagarpalika",14
+32305,3,23,"Sindhupalchok",5,"Helambu","हेलम्बु गाउँपालिका","Gaunpalika",7
+32306,3,23,"Sindhupalchok",6,"Indrawati","ईन्द्रावती गाउँपालिका","Gaunpalika",12
+32307,3,23,"Sindhupalchok",7,"Jugal","जुगल गाउँपालिका","Gaunpalika",7
+32308,3,23,"Sindhupalchok",8,"Lisangkhu Pakhar","लिसङ्खु पाखर गाउँपालिका","Gaunpalika",7
+32309,3,23,"Sindhupalchok",9,"Melamchi","मेलम्ची नगरपालिका","Nagarpalika",13
+32310,3,23,"Sindhupalchok",10,"Panchpokhari Thangpal","पाँचपोखरी थाङपाल गाउँपालिका","Gaunpalika",8
+32311,3,23,"Sindhupalchok",11,"Sunkoshi","सुनकोशी गाउँपालिका","Gaunpalika",5
+32312,3,23,"Sindhupalchok",12,"Tripurasundari","त्रिपुरासुन्दरी गाउँपालिका","Gaunpalika",9
+32401,3,24,"Kabhrepalanchok",1,"Banepa","बनेपा नगरपालिका","Nagarpalika",14
+32402,3,24,"Kabhrepalanchok",2,"Bethanchowk","बेथानचोक गाउँपालिका","Gaunpalika",6
+32403,3,24,"Kabhrepalanchok",3,"Bhumlu","भुम्लु गाउँपालिका","Gaunpalika",10
+32404,3,24,"Kabhrepalanchok",4,"Chaurideurali","चौंरीदेउराली गाउँपालिका","Gaunpalika",9
+32405,3,24,"Kabhrepalanchok",5,"Dhulikhel","धुलिखेल नगरपालिका","Nagarpalika",12
+32406,3,24,"Kabhrepalanchok",6,"Khanikhola","खानीखोला गाउँपालिका","Gaunpalika",7
+32407,3,24,"Kabhrepalanchok",7,"Mahabharat","महाभारत गाउँपालिका","Gaunpalika",8
+32408,3,24,"Kabhrepalanchok",8,"Mandandeupur","मण्डनदेउपुर नगरपालिका","Nagarpalika",12
+32409,3,24,"Kabhrepalanchok",9,"Namobuddha","नमोबुद्ध नगरपालिका","Nagarpalika",11
+32410,3,24,"Kabhrepalanchok",10,"Panauti","पनौती नगरपालिका","Nagarpalika",12
+32411,3,24,"Kabhrepalanchok",11,"Panchkhal","पाँचखाल नगरपालिका","Nagarpalika",13
+32412,3,24,"Kabhrepalanchok",12,"Roshi","रोशी गाउँपालिका","Gaunpalika",12
+32413,3,24,"Kabhrepalanchok",13,"Temal","तेमाल गाउँपालिका","Gaunpalika",9
+32501,3,25,"Lalitpur",1,"Bagmati","बागमती नगरपालिका","Gaunpalika",7
+32502,3,25,"Lalitpur",2,"Godawari","गोदावरी नगरपालिका","Nagarpalika",6
+32503,3,25,"Lalitpur",3,"Konjyosom","कोन्ज्योसोम गाउँपालिका","Gaunpalika",5
+32504,3,25,"Lalitpur",4,"Lalitpur","ललितपुर महानगरपालिका","Mahanagarpalika",29
+32505,3,25,"Lalitpur",5,"Mahalaxmi","महालक्ष्मी नगरपालिका","Nagarpalika",10
+32506,3,25,"Lalitpur",6,"Mahankal","महाङ्काल गाउँपालिका","Gaunpalika",6
+32601,3,26,"Bhaktapur",1,"Bhaktapur","भक्तपुर नगरपालिका","Nagarpalika",10
+32602,3,26,"Bhaktapur",2,"Changunarayan","चाँगुनारायण नगरपालिका","Nagarpalika",9
+32603,3,26,"Bhaktapur",3,"Madhyapur Thimi","मध्यपुर थिमी नगरपालिका","Nagarpalika",9
+32604,3,26,"Bhaktapur",4,"Suryabinayak","सूर्यविनायक नगरपालिका","Nagarpalika",10
+32701,3,27,"Kathmandu",1,"Budhanilakantha","बुढानिलकण्ठ नगरपालिका","Nagarpalika",13
+32702,3,27,"Kathmandu",2,"Chandragiri","चन्द्रागिरी नगरपालिका","Nagarpalika",15
+32703,3,27,"Kathmandu",3,"Dakshinkali","दक्षिणकाली नगरपालिका","Nagarpalika",9
+32704,3,27,"Kathmandu",4,"Gokarneshwor","गोकर्णेश्वर नगरपालिका","Nagarpalika",9
+32705,3,27,"Kathmandu",5,"Kageshwori Manahora","कागेश्वरी मनोहरा नगरपालिका","Nagarpalika",9
+32706,3,27,"Kathmandu",6,"Kathmandu","काठमाण्डौं महानगरपालिका","Mahanagarpalika",32
+32707,3,27,"Kathmandu",7,"Kirtipur","कीर्तिपुर नगरपालिका","Nagarpalika",10
+32708,3,27,"Kathmandu",8,"Nagarjun","नागार्जुन नगरपालिका","Nagarpalika",10
+32709,3,27,"Kathmandu",9,"Shankharapur","शङ्खरापुर नगरपालिका","Nagarpalika",9
+32710,3,27,"Kathmandu",10,"Tarakeshwor","तारकेश्वर नगरपालिका","Nagarpalika",11
+32711,3,27,"Kathmandu",11,"Tokha","टोखा नगरपालिका","Nagarpalika",11
+32801,3,28,"Nuwakot",1,"Belkotgadhi","बेलकोटगढी नगरपालिका","Nagarpalika",13
+32802,3,28,"Nuwakot",2,"Bidur","विदुर नगरपालिका","Nagarpalika",13
+32803,3,28,"Nuwakot",3,"Dupcheshwar","दुप्चेश्वर गाउँपालिका","Gaunpalika",7
+32804,3,28,"Nuwakot",4,"Kakani","ककनी गाउँपालिका","Gaunpalika",8
+32805,3,28,"Nuwakot",5,"Kispang","किस्पाङ गाउँपालिका","Gaunpalika",5
+32806,3,28,"Nuwakot",6,"Likhu","लिखु गाउँपालिका","Gaunpalika",6
+32807,3,28,"Nuwakot",7,"Meghang","मेघाङ गाउँपालिका","Gaunpalika",6
+32808,3,28,"Nuwakot",8,"Panchakanya","पञ्चकन्या गाउँपालिका","Gaunpalika",5
+32809,3,28,"Nuwakot",9,"Shivapuri","शिवपुरी गाउँपालिका","Gaunpalika",8
+32810,3,28,"Nuwakot",10,"Suryagadhi","सुर्यगढी गाउँपालिका","Gaunpalika",5
+32811,3,28,"Nuwakot",11,"Tadi","तादी गाउँपालिका","Gaunpalika",6
+32812,3,28,"Nuwakot",12,"Tarkeshwar","तारकेश्वर गाउँपालिका","Gaunpalika",6
+32888,3,28,"Nuwakot",88,"Shivapuri Watershed and Wildlife Reserve","","Watershed and Wildlife Reserve",NA
+32899,3,28,"Nuwakot",99,"Langtang National Park","","National Park",NA
+32901,3,29,"Rasuwa",1,"Gosaikunda","गोसाईकुण्ड गाउँपालिका","Gaunpalika",6
+32902,3,29,"Rasuwa",2,"Kalika","कालिका गाउँपालिका","Gaunpalika",5
+32903,3,29,"Rasuwa",3,"Naukunda","नौकुण्ड गाउँपालिका","Gaunpalika",6
+32904,3,29,"Rasuwa",4,"Parbati Kunda","पार्वतीकुण्ड गाउँपालिका","Gaunpalika",5
+32905,3,29,"Rasuwa",5,"Uttargaya","उत्तरगया गाउँपालिका","Gaunpalika",5
+33001,3,30,"Dhading",1,"Benighat Rorang","बेनीघाट रोराङ्ग गाउँपालिका","Gaunpalika",10
+33002,3,30,"Dhading",2,"Dhunibesi","धुनीबेंशी नगरपालिका","Nagarpalika",9
+33003,3,30,"Dhading",3,"Gajuri","गजुरी गाउँपालिका","Gaunpalika",8
+33004,3,30,"Dhading",4,"Galchi","गल्छी गाउँपालिका","Gaunpalika",8
+33005,3,30,"Dhading",5,"Gangajamuna","गङ्गाजमुना गाउँपालिका","Gaunpalika",7
+33006,3,30,"Dhading",6,"Jwalamukhi","ज्वालामूखी गाउँपालिका","Gaunpalika",7
+33007,3,30,"Dhading",7,"Khaniyabash","खनियाबास गाउँपालिका","Gaunpalika",5
+33008,3,30,"Dhading",8,"Netrawati","नेत्रावति गाउँपालिका","Gaunpalika",5
+33009,3,30,"Dhading",9,"Nilakantha","निलकण्ठ नगरपालिका","Nagarpalika",14
+33010,3,30,"Dhading",10,"Rubi Valley","रुवी भ्याली गाउँपालिका","Gaunpalika",6
+33011,3,30,"Dhading",11,"Siddhalek","सिद्धलेक गाउँपालिका","Gaunpalika",7
+33012,3,30,"Dhading",12,"Thakre","थाक्रे गाउँपालिका","Gaunpalika",11
+33013,3,30,"Dhading",13,"Tripura Sundari","त्रिपुरासुन्दरी गाउँपालिका","Gaunpalika",7
+33101,3,31,"Makawanpur",1,"Bagmati","बागमती नगरपालिका","Gaunpalika",9
+33102,3,31,"Makawanpur",2,"Bakaiya","बकैया गाउँपालिका","Gaunpalika",12
+33103,3,31,"Makawanpur",3,"Bhimphedi","भिमफेदी गाउँपालिका","Gaunpalika",9
+33104,3,31,"Makawanpur",4,"Hetauda","हेटौडा उपमहानगरपालिका","Upamahanagarpalika",19
+33105,3,31,"Makawanpur",5,"Indrasarowar","इन्द्रसरोबर गाउँपालिका","Gaunpalika",5
+33106,3,31,"Makawanpur",6,"Kailash","कैलाश गाउँपालिका","Gaunpalika",10
+33107,3,31,"Makawanpur",7,"Makawanpurgadhi","मकवानपुरगढी गाउँपालिका","Gaunpalika",8
+33108,3,31,"Makawanpur",8,"Manahari","मनहरी गाउँपालिका","Gaunpalika",9
+33109,3,31,"Makawanpur",9,"Raksirang","राक्सिराङ्ग गाउँपालिका","Gaunpalika",9
+33110,3,31,"Makawanpur",10,"Thaha","थाहा नगरपालिका","Nagarpalika",12
+33188,3,31,"Makawanpur",88,"Parsa Wildlife Reserve","","Wildlife Reserve",NA
+33199,3,31,"Makawanpur",99,"Chitawan National Park","","National Park",NA
+33501,3,35,"Chitawan",1,"Bharatpur","भरतपुर महानगरपालिका","Mahanagarpalika",29
+33502,3,35,"Chitawan",2,"Ichchhyakamana","इच्छाकामना गाउँपालिका","Gaunpalika",7
+33503,3,35,"Chitawan",3,"Kalika","कालिका गाउँपालिका","Nagarpalika",11
+33504,3,35,"Chitawan",4,"Khairahani","खैरहनी नगरपालिका","Nagarpalika",13
+33505,3,35,"Chitawan",5,"Madi","मादी नगरपालिका","Nagarpalika",9
+33506,3,35,"Chitawan",6,"Rapti","राप्ती नगरपालिका","Nagarpalika",13
+33507,3,35,"Chitawan",7,"Ratnanagar","रत्ननगर नगरपालिका","Nagarpalika",16
+33599,3,35,"Chitawan",99,"Chitawan National Park","","National Park",NA
+43601,4,36,"Gorkha",1,"Aarughat","आरूघाट गाउँपालिका","Gaunpalika",10
+43602,4,36,"Gorkha",2,"Ajirkot","अजिरकोट गाउँपालिका","Gaunpalika",5
+43603,4,36,"Gorkha",3,"Bhimsen","भिमसेन गाउँपालिका","Gaunpalika",8
+43604,4,36,"Gorkha",4,"Chum Nubri","चुमनुव्री गाउँपालिका","Gaunpalika",7
+43605,4,36,"Gorkha",5,"Dharche","धार्चे गाउँपालिका","Gaunpalika",7
+43606,4,36,"Gorkha",6,"Gandaki","गण्डकी गाउँपालिका","Gaunpalika",8
+43607,4,36,"Gorkha",7,"Gorkha","गोरखा नगरपालिका","Nagarpalika",14
+43608,4,36,"Gorkha",8,"Palungtar","पालुङटार नगरपालिका","Nagarpalika",10
+43609,4,36,"Gorkha",9,"Sahid Lakhan","शहिद लखन गाउँपालिका","Gaunpalika",9
+43610,4,36,"Gorkha",10,"Siranchok","सिरानचोक गाउँपालिका","Gaunpalika",8
+43611,4,36,"Gorkha",11,"Sulikot","सुलीकोट गाउँपालिका","Gaunpalika",8
+43701,4,37,"Lamjung",1,"Besishahar","बेसीशहर नगरपालिका","Nagarpalika",11
+43702,4,37,"Lamjung",2,"Dordi","दोर्दी गाउँपालिका","Gaunpalika",9
+43703,4,37,"Lamjung",3,"Dudhpokhari","दूधपोखरी गाउँपालिका","Gaunpalika",6
+43704,4,37,"Lamjung",4,"Kwholasothar","क्व्होलासोथार गाउँपालिका","Gaunpalika",9
+43705,4,37,"Lamjung",5,"MadhyaNepal","मध्यनेपाल नगरपालिका","Nagarpalika",10
+43706,4,37,"Lamjung",6,"Marsyangdi","मर्स्याङदी गाउँपालिका","Gaunpalika",9
+43707,4,37,"Lamjung",7,"Rainas","रार्इनास नगरपालिका","Nagarpalika",10
+43708,4,37,"Lamjung",8,"Sundarbazar","सुन्दरबजार नगरपालिका","Nagarpalika",11
+43801,4,38,"Tanahu",1,"Anbukhaireni","आँबुखैरेनी गाउँपालिका","Gaunpalika",6
+43802,4,38,"Tanahu",2,"Bandipur","वन्दिपुर गाउँपालिका","Gaunpalika",6
+43803,4,38,"Tanahu",3,"Bhanu","भानु नगरपालिका","Nagarpalika",13
+43804,4,38,"Tanahu",4,"Bhimad","भिमाद नगरपालिका","Nagarpalika",9
+43805,4,38,"Tanahu",5,"Byas","व्यास नगरपालिका","Nagarpalika",7
+43806,4,38,"Tanahu",6,"Devghat","देवघाट गाउँपालिका","Gaunpalika",5
+43807,4,38,"Tanahu",7,"Ghiring","घिरिङ गाउँपालिका","Gaunpalika",5
+43808,4,38,"Tanahu",8,"Myagde","म्याग्दे गाउँपालिका","Gaunpalika",7
+43809,4,38,"Tanahu",9,"Rhishing","ऋषिङ्ग गाउँपालिका","Gaunpalika",8
+43810,4,38,"Tanahu",10,"Shuklagandaki","शुक्लागण्डकी नगरपालिका","Nagarpalika",12
+43901,4,39,"Syangja",1,"Aandhikhola","आँधिखोला गाउँपालिका","Gaunpalika",6
+43902,4,39,"Syangja",2,"Arjunchaupari","अर्जुनचौपारी गाउँपालिका","Gaunpalika",6
+43903,4,39,"Syangja",3,"Bhirkot","भीरकोट नगरपालिका","Nagarpalika",9
+43904,4,39,"Syangja",4,"Biruwa","बिरुवा गाउँपालिका","Gaunpalika",8
+43905,4,39,"Syangja",5,"Chapakot","चापाकोट नगरपालिका","Nagarpalika",10
+43906,4,39,"Syangja",6,"Galyang","गल्याङ नगरपालिका","Nagarpalika",11
+43907,4,39,"Syangja",7,"Harinas","हरिनास गाउँपालिका","Gaunpalika",7
+43908,4,39,"Syangja",8,"Kaligandagi","कालीगण्डकी गाउँपालिका","Gaunpalika",7
+43909,4,39,"Syangja",9,"Phedikhola","फेदीखोला गाउँपालिका","Gaunpalika",5
+43910,4,39,"Syangja",10,"Putalibazar","पुतलीबजार नगरपालिका","Nagarpalika",14
+43911,4,39,"Syangja",11,"Waling","वालिङ नगरपालिका","Nagarpalika",14
+44001,4,40,"Kaski",1,"Annapurna","अन्नपूर्ण गाउँपालिका","Gaunpalika",11
+44002,4,40,"Kaski",2,"Machhapuchchhre","माछापुच्छ्रे गाउँपालिका","Gaunpalika",9
+44003,4,40,"Kaski",3,"Madi","मादी नगरपालिका","Gaunpalika",12
+44004,4,40,"Kaski",4,"Pokhara Lekhnath","पोखरा लेखनाथ महानगरपालिका","Mahanagarpalika",33
+44005,4,40,"Kaski",5,"Rupa","रूपा गाउँपालिका","Gaunpalika",7
+44101,4,41,"Manang",1,"Chame","चामे गाउँपालिका","Gaunpalika",5
+44102,4,41,"Manang",2,"Narphu","नारफू गाउँपालिका","Gaunpalika",5
+44103,4,41,"Manang",3,"Nashong","नाशोङ गाउँपालिका","Gaunpalika",9
+44104,4,41,"Manang",4,"Neshyang","नेस्याङ गाउँपालिका","Gaunpalika",9
+44201,4,42,"Mustang",1,"Barhagaun Muktikhsetra","वाह्रगाउँ मुक्तिक्षेत्र गाउँपालिका","Gaunpalika",5
+44202,4,42,"Mustang",2,"Dalome","दालोमे गाउँपालिका","Gaunpalika",5
+44203,4,42,"Mustang",3,"Gharapjhong","घरपझोङ गाउँपालिका","Gaunpalika",5
+44204,4,42,"Mustang",4,"Lomanthang","लोमन्थाङ गाउँपालिका","Gaunpalika",5
+44205,4,42,"Mustang",5,"Thasang","थासाङ गाउँपालिका","Gaunpalika",5
+44301,4,43,"Myagdi",1,"Annapurna","अन्नपूर्ण गाउँपालिका","Gaunpalika",8
+44302,4,43,"Myagdi",2,"Beni","बेनी नगरपालिका","Nagarpalika",10
+44303,4,43,"Myagdi",3,"Dhaulagiri","धवलागिरी गाउँपालिका","Gaunpalika",7
+44304,4,43,"Myagdi",4,"Malika","मालिका गाउँपालिका","Gaunpalika",7
+44305,4,43,"Myagdi",5,"Mangala","मंगला गाउँपालिका","Gaunpalika",5
+44306,4,43,"Myagdi",6,"Raghuganga","रघुगंगा गाउँपालिका","Gaunpalika",8
+44388,4,43,"Myagdi",88,"Dhorpatan Hunting Reserve","","Hunting Reserve",NA
+44401,4,44,"Parbat",1,"Bihadi","विहादी गाउँपालिका","Gaunpalika",6
+44402,4,44,"Parbat",2,"Jaljala","जलजला गाउँपालिका","Gaunpalika",9
+44403,4,44,"Parbat",3,"Kushma","कुश्मा नगरपालिका","Nagarpalika",14
+44404,4,44,"Parbat",4,"Mahashila","महाशिला गाउँपालिका","Gaunpalika",6
+44405,4,44,"Parbat",5,"Modi","मोदी गाउँपालिका","Gaunpalika",8
+44406,4,44,"Parbat",6,"Painyu","पैयूं गाउँपालिका","Gaunpalika",7
+44407,4,44,"Parbat",7,"Phalebas","फलेवास नगरपालिका","Nagarpalika",11
+44501,4,45,"Baglung",1,"Badigad","वडिगाड गाउँपालिका","Gaunpalika",10
+44502,4,45,"Baglung",2,"Baglung","बागलुङ नगरपालिका","Nagarpalika",14
+44503,4,45,"Baglung",3,"Bareng","वरेङ गाउँपालिका","Gaunpalika",5
+44504,4,45,"Baglung",4,"Dhorpatan","ढोरपाटन नगरपालिका","Nagarpalika",9
+44505,4,45,"Baglung",5,"Galkot","गल्कोट नगरपालिका","Nagarpalika",11
+44506,4,45,"Baglung",6,"Jaimuni","जैमूनी नगरपालिका","Nagarpalika",10
+44507,4,45,"Baglung",7,"Kanthekhola","काठेखोला गाउँपालिका","Gaunpalika",8
+44508,4,45,"Baglung",8,"Nisikhola","निसीखोला गाउँपालिका","Gaunpalika",7
+44509,4,45,"Baglung",9,"Taman Khola","तमानखोला गाउँपालिका","Gaunpalika",6
+44510,4,45,"Baglung",10,"Tara Khola","ताराखोला गाउँपालिका","Gaunpalika",5
+44588,4,45,"Baglung",88,"Dhorpatan Hunting Reserve","","Hunting Reserve",NA
+47601,4,76,"Nawalparasi_E",1,"Binayee Tribeni","विनयी त्रिवेणी गाउँपालिका","Gaunpalika",NA
+47602,4,76,"Nawalparasi_E",2,"Bulingtar","बुलिङटार गाउँपालिका","Gaunpalika",NA
+47603,4,76,"Nawalparasi_E",3,"Bungdikali","बुङ्दीकाली गाउँपालिका","Gaunpalika",NA
+47604,4,76,"Nawalparasi_E",4,"Devchuli","देवचुली नगरपालिका","Nagarpalika",NA
+47605,4,76,"Nawalparasi_E",5,"Gaidakot","गैडाकोट नगरपालिका","Nagarpalika",NA
+47606,4,76,"Nawalparasi_E",6,"Hupsekot","हुप्सेकोट गाउँपालिका","Gaunpalika",NA
+47607,4,76,"Nawalparasi_E",7,"Kawasoti","कावासोती नगरपालिका","Nagarpalika",NA
+47608,4,76,"Nawalparasi_E",8,"Madhyabindu","मध्यविन्दु नगरपालिका","Nagarpalika",NA
+47699,4,76,"Nawalparasi_E",99,"Chitawan National Park","","National Park",NA
+54601,5,46,"Gulmi",1,"Chandrakot","चन्द्रकोट गाउँपालिका","Gaunpalika",8
+54602,5,46,"Gulmi",2,"Chatrakot","छत्रकोट गाउँपालिका","Gaunpalika",6
+54603,5,46,"Gulmi",3,"Dhurkot","धुर्कोट गाउँपालिका","Gaunpalika",7
+54604,5,46,"Gulmi",4,"Gulmidarbar","गुल्मी दरबार गाउँपालिका","Gaunpalika",7
+54605,5,46,"Gulmi",5,"Isma","ईस्मा गाउँपालिका","Gaunpalika",6
+54606,5,46,"Gulmi",6,"Kaligandaki","कालीगण्डकी गाउँपालिका","Gaunpalika",7
+54607,5,46,"Gulmi",7,"Madane","मदाने गाउँपालिका","Gaunpalika",7
+54608,5,46,"Gulmi",8,"Malika","मालिका गाउँपालिका","Gaunpalika",8
+54609,5,46,"Gulmi",9,"Musikot","मुसिकोट नगरपालिका","Nagarpalika",9
+54610,5,46,"Gulmi",10,"Resunga","रेसुङ्गा नगरपालिका","Nagarpalika",14
+54611,5,46,"Gulmi",11,"Ruru","रुरु गाउँपालिका","Gaunpalika",6
+54612,5,46,"Gulmi",12,"Satyawati","सत्यवती गाउँपालिका","Gaunpalika",8
+54701,5,47,"Palpa",1,"Bagnaskali","बगनासकाली गाउँपालिका","Gaunpalika",9
+54702,5,47,"Palpa",2,"Mathagadhi","माथागढी गाउँपालिका","Gaunpalika",8
+54703,5,47,"Palpa",3,"Nisdi","निस्दी गाउँपालिका","Gaunpalika",7
+54704,5,47,"Palpa",4,"Purbakhola","पूर्वखोला गाउँपालिका","Gaunpalika",6
+54705,5,47,"Palpa",5,"Rainadevi Chhahara","रैनादेवी छहरा गाउँपालिका","Gaunpalika",8
+54706,5,47,"Palpa",6,"Rambha","रम्भा गाउँपालिका","Gaunpalika",5
+54707,5,47,"Palpa",7,"Rampur","रामपुर नगरपालिका","Nagarpalika",10
+54708,5,47,"Palpa",8,"Ribdikot","रिब्दिकोट गाउँपालिका","Gaunpalika",8
+54709,5,47,"Palpa",9,"Tansen","तानसेन नगरपालिका","Nagarpalika",14
+54710,5,47,"Palpa",10,"Tinau","तिनाउ गाउँपालिका","Gaunpalika",6
+54801,5,48,"Nawalparasi_W",1,"Bardaghat","बर्दघाट नगरपालिका","Nagarpalika",NA
+54802,5,48,"Nawalparasi_W",2,"Palhi Nandan","पाल्हीनन्दन गाउँपालिका","Gaunpalika",NA
+54803,5,48,"Nawalparasi_W",3,"Pratappur","प्रतापपुर गाउँपालिका","Gaunpalika",NA
+54804,5,48,"Nawalparasi_W",4,"Ramgram","रामग्राम नगरपालिका","Nagarpalika",NA
+54805,5,48,"Nawalparasi_W",5,"Sarawal","सरावल गाउँपालिका","Gaunpalika",NA
+54806,5,48,"Nawalparasi_W",6,"Sunwal","सुनवल नगरपालिका","Nagarpalika",NA
+54807,5,48,"Nawalparasi_W",7,"Susta","सुस्ता गाउँपालिका","Gaunpalika",NA
+54901,5,49,"Rupandehi",1,"Butwal","बुटवल उपमहानगरपालिका","Upamahanagarpalika",19
+54902,5,49,"Rupandehi",2,"Devdaha","देवदह नगरपालिका","Nagarpalika",12
+54903,5,49,"Rupandehi",3,"Gaidahawa","गैडहवा गाउँपालिका","Gaunpalika",9
+54904,5,49,"Rupandehi",4,"Kanchan","कन्चन गाउँपालिका","Gaunpalika",5
+54905,5,49,"Rupandehi",5,"Kotahimai","कोटहीमाई गाउँपालिका","Gaunpalika",7
+54906,5,49,"Rupandehi",6,"Lumbini Sanskritik","लुम्बिनी सांस्कृतिक नगरपालिका","Nagarpalika",13
+54907,5,49,"Rupandehi",7,"Marchawari","मर्चवारी गाउँपालिका","Gaunpalika",7
+54908,5,49,"Rupandehi",8,"Mayadevi","मायादेवी गाउँपालिका","Gaunpalika",8
+54909,5,49,"Rupandehi",9,"Omsatiya","ओमसतिया गाउँपालिका","Gaunpalika",6
+54910,5,49,"Rupandehi",10,"Rohini","रोहिणी गाउँपालिका","Gaunpalika",7
+54911,5,49,"Rupandehi",11,"Sainamaina","सैनामैना नगरपालिका","Nagarpalika",11
+54912,5,49,"Rupandehi",12,"Sammarimai","सम्मरीमाई गाउँपालिका","Gaunpalika",7
+54913,5,49,"Rupandehi",13,"Siddharthanagar","सिद्धार्थनगर नगरपालिका","Nagarpalika",13
+54914,5,49,"Rupandehi",14,"Siyari","सियारी गाउँपालिका","Gaunpalika",7
+54915,5,49,"Rupandehi",15,"Sudhdhodhan","शुद्धोधन गाउँपालिका","Gaunpalika",7
+54916,5,49,"Rupandehi",16,"Tillotama","तिलोत्तमा नगरपालिका","Nagarpalika",17
+54988,5,49,"Rupandehi",88,"Lumbini Sanskritik Development Area","","Development Area",NA
+55001,5,50,"Kapilbastu",1,"Banganga","बाणगंगा नगरपालिका","Nagarpalika",11
+55002,5,50,"Kapilbastu",2,"Bijayanagar","विजयनगर गाउँपालिका","Gaunpalika",7
+55003,5,50,"Kapilbastu",3,"Buddhabhumi","बुद्धभूमी नगरपालिका","Nagarpalika",10
+55004,5,50,"Kapilbastu",4,"Kapilbastu","कपिलवस्तु नगरपालिका","Nagarpalika",12
+55005,5,50,"Kapilbastu",5,"Krishnanagar","कृष्णनगर नगरपालिका","Nagarpalika",12
+55006,5,50,"Kapilbastu",6,"Maharajgunj","महाराजगंज नगरपालिका","Nagarpalika",11
+55007,5,50,"Kapilbastu",7,"Mayadevi","मायादेवी गाउँपालिका","Gaunpalika",8
+55008,5,50,"Kapilbastu",8,"Shivaraj","शिवराज नगरपालिका","Nagarpalika",11
+55009,5,50,"Kapilbastu",9,"Suddhodhan","सुद्धोधन गाउँपालिका","Gaunpalika",6
+55010,5,50,"Kapilbastu",10,"Yashodhara","यसोधरा गाउँपालिका","Gaunpalika",8
+55101,5,51,"Arghakhanchi",1,"Bhumekasthan","भूमिकास्थान नगरपालिका","Nagarpalika",10
+55102,5,51,"Arghakhanchi",2,"Chhatradev","छत्रदेव गाउँपालिका","Gaunpalika",8
+55103,5,51,"Arghakhanchi",3,"Malarani","मालारानी गाउँपालिका","Gaunpalika",9
+55104,5,51,"Arghakhanchi",4,"Panini","पाणिनी गाउँपालिका","Gaunpalika",8
+55105,5,51,"Arghakhanchi",5,"Sandhikharka","सन्धिखर्क नगरपालिका","Nagarpalika",12
+55106,5,51,"Arghakhanchi",6,"Sitganga","शितगंगा नगरपालिका","Nagarpalika",14
+55201,5,52,"Pyuthan",1,"Ayirabati","ऐरावती गाउँपालिका","Gaunpalika",6
+55202,5,52,"Pyuthan",2,"Gaumukhi","गौमुखी गाउँपालिका","Gaunpalika",7
+55203,5,52,"Pyuthan",3,"Jhimruk","झिमरुक गाउँपालिका","Gaunpalika",8
+55204,5,52,"Pyuthan",4,"Mallarani","मल्लरानी गाउँपालिका","Gaunpalika",5
+55205,5,52,"Pyuthan",5,"Mandavi","माण्डवी गाउँपालिका","Gaunpalika",5
+55206,5,52,"Pyuthan",6,"Naubahini","नौवहिनी गाउँपालिका","Gaunpalika",8
+55207,5,52,"Pyuthan",7,"Pyuthan","प्यूठान नगरपालिका","Nagarpalika",10
+55208,5,52,"Pyuthan",8,"Sarumarani","सरुमारानी गाउँपालिका","Gaunpalika",6
+55209,5,52,"Pyuthan",9,"Sworgadwary","स्वर्गद्वारी नगरपालिका","Nagarpalika",9
+55301,5,53,"Rolpa",1,"Duikholi","दुईखोली गाउँपालिका","Gaunpalika",6
+55302,5,53,"Rolpa",2,"Lungri","लुङग्री गाउँपालिका","Gaunpalika",7
+55303,5,53,"Rolpa",3,"Madi","मादी नगरपालिका","Gaunpalika",6
+55304,5,53,"Rolpa",4,"Rolpa","रोल्पा नगरपालिका","Nagarpalika",10
+55305,5,53,"Rolpa",5,"Runtigadi","रुन्टीगढी गाउँपालिका","Gaunpalika",9
+55306,5,53,"Rolpa",6,"Sukidaha","सुकिदह गाउँपालिका","Gaunpalika",7
+55307,5,53,"Rolpa",7,"Sunchhahari","सुनछहरी गाउँपालिका","Gaunpalika",7
+55308,5,53,"Rolpa",8,"Suwarnabati","सुवर्णावती गाउँपालिका","Gaunpalika",8
+55309,5,53,"Rolpa",9,"Thawang","थवाङ गाउँपालिका","Gaunpalika",5
+55310,5,53,"Rolpa",10,"Tribeni","त्रिवेणी गाउँपालिका","Gaunpalika",7
+55601,5,56,"Dang",1,"Babai","बबई गाउँपालिका","Gaunpalika",7
+55602,5,56,"Dang",2,"Banglachuli","बंगलाचुली गाउँपालिका","Gaunpalika",8
+55603,5,56,"Dang",3,"Dangisharan","दंगीशरण गाउँपालिका","Gaunpalika",7
+55604,5,56,"Dang",4,"Gadhawa","गढवा गाउँपालिका","Gaunpalika",8
+55605,5,56,"Dang",5,"Ghorahi","घोराही उपमहानगरपालिका","Upamahanagarpalika",19
+55606,5,56,"Dang",6,"Lamahi","लमही नगरपालिका","Nagarpalika",9
+55607,5,56,"Dang",7,"Rajpur","राजपुर नगरपालिका","Gaunpalika",7
+55608,5,56,"Dang",8,"Rapti","राप्ती नगरपालिका","Gaunpalika",8
+55609,5,56,"Dang",9,"Shantinagar","शान्तिनगर गाउँपालिका","Gaunpalika",7
+55610,5,56,"Dang",10,"Tulsipur","तुल्सीपुर उपमहानगरपालिका","Upamahanagarpalika",19
+55701,5,57,"Banke",1,"Baijanath","बैजनाथ गाउँपालिका","Gaunpalika",8
+55702,5,57,"Banke",2,"Duduwa","डुडुवा गाउँपालिका","Gaunpalika",6
+55703,5,57,"Banke",3,"Janki","जानकी गाउँपालिका","Gaunpalika",6
+55704,5,57,"Banke",4,"Khajura","खजुरा गाउँपालिका","Gaunpalika",8
+55705,5,57,"Banke",5,"Kohalpur","कोहलपुर नगरपालिका","Nagarpalika",15
+55706,5,57,"Banke",6,"Narainapur","नरैनापुर गाउँपालिका","Gaunpalika",6
+55707,5,57,"Banke",7,"Nepalgunj","नेपालगंज उपमहानगरपालिका","Upamahanagarpalika",23
+55708,5,57,"Banke",8,"Rapti Sonari","राप्तीसोनारी गाउँपालिका","Gaunpalika",9
+55801,5,58,"Bardiya",1,"Badhaiyatal","बढैयाताल गाउँपालिका","Gaunpalika",9
+55802,5,58,"Bardiya",2,"Bansagadhi","बाँसगढी नगरपालिका","Nagarpalika",9
+55802,5,58,"Bardiya",2,"Bansagadhi","बाँसगढी नगरपालिका","Nagarpalika",9
+55803,5,58,"Bardiya",3,"Barbardiya","बारबर्दिया नगरपालिका","Nagarpalika",11
+55804,5,58,"Bardiya",4,"Geruwa","गेरुवा गाउँपालिका","Gaunpalika",6
+55805,5,58,"Bardiya",5,"Gulariya","गुलरिया नगरपालिका","Nagarpalika",12
+55806,5,58,"Bardiya",6,"Madhuwan","मधुवन नगरपालिका","Nagarpalika",9
+55807,5,58,"Bardiya",7,"Rajapur","राजापुर नगरपालिका","Nagarpalika",10
+55808,5,58,"Bardiya",8,"Thakurbaba","ठाकुरबाबा नगरपालिका","Nagarpalika",9
+55899,5,58,"Bardiya",99,"Bardiya National Park","","National Park",NA
+57701,5,77,"Rukum_E",1,"Bhume","भूमे गाउँपालिका","Gaunpalika",NA
+57702,5,77,"Rukum_E",2,"Putha Uttarganga","पुथा उत्तरगंगा गाउँपालिका","Gaunpalika",NA
+57703,5,77,"Rukum_E",3,"Sisne","सिस्ने गाउँपालिका","Gaunpalika",NA
+57788,5,77,"Rukum_E",88,"Dhorpatan Hunting Reserve","","Hunting Reserve",NA
+65401,6,54,"Rukum_W",1,"Aathbiskot","आठबिसकोट नगरपालिका","Nagarpalika",NA
+65402,6,54,"Rukum_W",2,"Banfikot","बाँफिकोट गाउँपालिका","Gaunpalika",NA
+65403,6,54,"Rukum_W",3,"Chaurjahari","चौरजहारी नगरपालिका","Nagarpalika",NA
+65404,6,54,"Rukum_W",4,"Musikot","मुसिकोट नगरपालिका","Nagarpalika",NA
+65405,6,54,"Rukum_W",5,"Sani Bheri","सानी भेरी गाउँपालिका","Gaunpalika",NA
+65406,6,54,"Rukum_W",6,"Tribeni","त्रिवेणी गाउँपालिका","Gaunpalika",NA
+65501,6,55,"Salyan",1,"Bagchaur","बागचौर नगरपालिका","Nagarpalika",12
+65502,6,55,"Salyan",2,"Bangad Kupinde","बनगाड कुपिण्डे नगरपालिका","Nagarpalika",12
+65503,6,55,"Salyan",3,"Chhatreshwori","छत्रेश्वरी गाउँपालिका","Gaunpalika",7
+65504,6,55,"Salyan",4,"Darma","दार्मा गाउँपालिका","Gaunpalika",6
+65505,6,55,"Salyan",5,"Dhorchaur","ढोरचौर गाउँपालिका","Gaunpalika",5
+65506,6,55,"Salyan",6,"Kalimati","कालिमाटी गाउँपालिका","Gaunpalika",7
+65507,6,55,"Salyan",7,"Kapurkot","कपुरकोट गाउँपालिका","Gaunpalika",6
+65508,6,55,"Salyan",8,"Kumakhmalika","कुमाखमालिका गाउँपालिका","Gaunpalika",7
+65509,6,55,"Salyan",9,"Sharada","शारदा नगरपालिका","Nagarpalika",15
+65510,6,55,"Salyan",10,"Tribeni","त्रिवेणी गाउँपालिका","Gaunpalika",5
+65901,6,59,"Surkhet",1,"Barahtal","बराहताल गाउँपालिका","Gaunpalika",10
+65902,6,59,"Surkhet",2,"Bheriganga","भेरीगंगा नगरपालिका","Nagarpalika",13
+65903,6,59,"Surkhet",3,"Birendranagar","बीरेन्द्रनगर नगरपालिका","Nagarpalika",16
+65904,6,59,"Surkhet",4,"Chaukune","चौकुने गाउँपालिका","Gaunpalika",10
+65905,6,59,"Surkhet",5,"Chingad","चिङ्गाड गाउँपालिका","Gaunpalika",6
+65906,6,59,"Surkhet",6,"Gurbhakot","गुर्भाकोट नगरपालिका","Nagarpalika",14
+65907,6,59,"Surkhet",7,"Lekbeshi","लेकवेशी नगरपालिका","Nagarpalika",10
+65908,6,59,"Surkhet",8,"Panchpuri","पञ्चपुरी नगरपालिका","Nagarpalika",11
+65909,6,59,"Surkhet",9,"Simta","सिम्ता गाउँपालिका","Gaunpalika",9
+66001,6,60,"Dailekh",1,"Aathabis","आठबीस नगरपालिका","Nagarpalika",9
+66002,6,60,"Dailekh",2,"Bhagawatimai","भगवतीमाई गाउँपालिका","Gaunpalika",7
+66003,6,60,"Dailekh",3,"Bhairabi","भैरवी गाउँपालिका","Gaunpalika",7
+66004,6,60,"Dailekh",4,"Chamunda Bindrasaini","चामुण्डा विन्द्रासैनी नगरपालिका","Nagarpalika",9
+66005,6,60,"Dailekh",5,"Dullu","दुल्लु नगरपालिका","Nagarpalika",13
+66006,6,60,"Dailekh",6,"Dungeshwor","डुंगेश्वर गाउँपालिका","Gaunpalika",6
+66007,6,60,"Dailekh",7,"Gurans","गुराँस गाउँपालिका","Gaunpalika",8
+66008,6,60,"Dailekh",8,"Mahabu","महावु गाउँपालिका","Gaunpalika",6
+66009,6,60,"Dailekh",9,"Narayan","नारायण नगरपालिका","Nagarpalika",11
+66010,6,60,"Dailekh",10,"Naumule","नौमुले गाउँपालिका","Gaunpalika",8
+66011,6,60,"Dailekh",11,"Thantikandh","ठाँटीकाँध गाउँपालिका","Gaunpalika",6
+66101,6,61,"Jajarkot",1,"Barekot","बारेकोट गाउँपालिका","Gaunpalika",9
+66102,6,61,"Jajarkot",2,"Bheri","भेरी नगरपालिका","Nagarpalika",13
+66103,6,61,"Jajarkot",3,"Chhedagad","छेडागाड नगरपालिका","Nagarpalika",13
+66104,6,61,"Jajarkot",4,"Junichande","जुनीचाँदे गाउँपालिका","Gaunpalika",11
+66105,6,61,"Jajarkot",5,"Kuse","कुसे गाउँपालिका","Gaunpalika",9
+66106,6,61,"Jajarkot",6,"Shiwalaya","शिवालय गाउँपालिका","Gaunpalika",9
+66107,6,61,"Jajarkot",7,"Tribeni Nalagad","त्रिवेणी नलगाड नगरपालिका","Nagarpalika",13
+66201,6,62,"Dolpa",1,"Chharka Tangsong","छार्का ताङसोङ गाउँपालिका","Gaunpalika",6
+66202,6,62,"Dolpa",2,"Dolpo Buddha","डोल्पो बुद्ध गाउँपालिका","Gaunpalika",6
+66203,6,62,"Dolpa",3,"Jagadulla","जगदुल्ला गाउँपालिका","Gaunpalika",6
+66204,6,62,"Dolpa",4,"Kaike","काईके गाउँपालिका","Gaunpalika",7
+66205,6,62,"Dolpa",5,"Mudkechula","मुड्केचुला गाउँपालिका","Gaunpalika",9
+66206,6,62,"Dolpa",6,"Shey Phoksundo","शे फोक्सुन्डो गाउँपालिका","Gaunpalika",9
+66207,6,62,"Dolpa",7,"Thuli Bheri","ठुली भेरी नगरपालिका","Nagarpalika",11
+66208,6,62,"Dolpa",8,"Tripurasundari","त्रिपुरासुन्दरी गाउँपालिका","Nagarpalika",11
+66301,6,63,"Jumla",1,"Chandannath","चन्दननाथ नगरपालिका","Nagarpalika",10
+66302,6,63,"Jumla",2,"Guthichaur","गुठिचौर गाउँपालिका","Gaunpalika",5
+66303,6,63,"Jumla",3,"Hima","हिमा गाउँपालिका","Gaunpalika",7
+66304,6,63,"Jumla",4,"Kanakasundari","कनकासुन्दरी गाउँपालिका","Gaunpalika",8
+66305,6,63,"Jumla",5,"Patrasi","पातारासी गाउँपालिका","Gaunpalika",7
+66306,6,63,"Jumla",6,"Sinja","सिंजा गाउँपालिका","Gaunpalika",6
+66307,6,63,"Jumla",7,"Tatopani","तातोपानी गाउँपालिका","Gaunpalika",8
+66308,6,63,"Jumla",8,"Tila","तिला गाउँपालिका","Gaunpalika",9
+66401,6,64,"Kalikot",1,"Kalika","कालिका गाउँपालिका","Gaunpalika",9
+66402,6,64,"Kalikot",2,"Khandachakra","खाँडाचक्र नगरपालिका","Nagarpalika",11
+66403,6,64,"Kalikot",3,"Mahawai","महावै गाउँपालिका","Gaunpalika",7
+66404,6,64,"Kalikot",4,"Naraharinath","नरहरिनाथ गाउँपालिका","Gaunpalika",9
+66405,6,64,"Kalikot",5,"Pachaljharana","पचालझरना गाउँपालिका","Gaunpalika",9
+66406,6,64,"Kalikot",6,"Palata","पलाता गाउँपालिका","Gaunpalika",9
+66407,6,64,"Kalikot",7,"Raskot","रास्कोट नगरपालिका","Nagarpalika",9
+66408,6,64,"Kalikot",8,"Sanni Tribeni","सान्नी त्रिवेणी गाउँपालिका","Gaunpalika",9
+66409,6,64,"Kalikot",9,"Tilagufa","तिलागुफा नगरपालिका","Nagarpalika",11
+66501,6,65,"Mugu",1,"Chhayanath Rara","छायाँनाथ रारा नगरपालिका","Nagarpalika",14
+66502,6,65,"Mugu",2,"Khatyad","खत्याड गाउँपालिका","Gaunpalika",11
+66503,6,65,"Mugu",3,"Mugum Karmarong","मुगुम कार्मारोंग गाउँपालिका","Gaunpalika",9
+66504,6,65,"Mugu",4,"Soru","सोरु गाउँपालिका","Gaunpalika",11
+66601,6,66,"Humla",1,"Adanchuli","अदानचुली गाउँपालिका","Gaunpalika",6
+66602,6,66,"Humla",2,"Chankheli","चंखेली गाउँपालिका","Gaunpalika",6
+66603,6,66,"Humla",3,"Kharpunath","खार्पुनाथ गाउँपालिका","Gaunpalika",5
+66604,6,66,"Humla",4,"Namkha","नाम्खा गाउँपालिका","Gaunpalika",6
+66605,6,66,"Humla",5,"Sarkegad","सर्केगाड गाउँपालिका","Gaunpalika",8
+66606,6,66,"Humla",6,"Simkot","सिमकोट गाउँपालिका","Gaunpalika",8
+66607,6,66,"Humla",7,"Tanjakot","ताँजाकोट गाउँपालिका","Gaunpalika",5
+76701,7,67,"Bajura",1,"Badimalika","बडीमालिका नगरपालिका","Nagarpalika",9
+76702,7,67,"Bajura",2,"Budhiganga","बुढीगंगा गाउँपालिका","Nagarpalika",10
+76703,7,67,"Bajura",3,"Budhinanda","बुढीनन्दा नगरपालिका","Nagarpalika",10
+76704,7,67,"Bajura",4,"Chhededaha","छेडेदह गाउँपालिका","Gaunpalika",7
+76705,7,67,"Bajura",5,"Gaumul","गौमुल गाउँपालिका","Gaunpalika",6
+76706,7,67,"Bajura",6,"Himali","हिमाली गाउँपालिका","Gaunpalika",7
+76707,7,67,"Bajura",7,"Pandav Gupha","पाण्डव गुफा गाउँपालिका","Gaunpalika",6
+76708,7,67,"Bajura",8,"Swami Kartik","स्वामीकार्तिक गाउँपालिका","Gaunpalika",5
+76709,7,67,"Bajura",9,"Tribeni","त्रिवेणी गाउँपालिका","Nagarpalika",9
+76799,7,67,"Bajura",99,"Khaptad National Park","","National Park",NA
+76801,7,68,"Bajhang",1,"Bithadchir","वित्थडचिर गाउँपालिका","Gaunpalika",9
+76802,7,68,"Bajhang",2,"Bungal","बुंगल नगरपालिका","Nagarpalika",11
+76803,7,68,"Bajhang",3,"Chabispathivera","छबिसपाथिभेरा गाउँपालिका","Gaunpalika",7
+76804,7,68,"Bajhang",4,"Durgathali","दुर्गाथली गाउँपालिका","Gaunpalika",7
+76805,7,68,"Bajhang",5,"JayaPrithivi","जयपृथ्वी नगरपालिका","Nagarpalika",11
+76806,7,68,"Bajhang",6,"Kanda","काँडा गाउँपालिका","Gaunpalika",5
+76807,7,68,"Bajhang",7,"Kedarseu","केदारस्युँ गाउँपालिका","Gaunpalika",9
+76808,7,68,"Bajhang",8,"Khaptadchhanna","खप्तडछान्ना गाउँपालिका","Gaunpalika",7
+76809,7,68,"Bajhang",9,"Masta","मष्टा गाउँपालिका","Gaunpalika",7
+76810,7,68,"Bajhang",10,"Surma","सूर्मा गाउँपालिका","Gaunpalika",5
+76811,7,68,"Bajhang",11,"Talkot","तलकोट गाउँपालिका","Gaunpalika",7
+76812,7,68,"Bajhang",12,"Thalara","थलारा गाउँपालिका","Gaunpalika",9
+76899,7,68,"Bajhang",99,"Khaptad National Park","","National Park",NA
+76901,7,69,"Achham",1,"Bannigadhi Jayagadh","बान्निगढी जयगढ गाउँपालिका","Gaunpalika",6
+76902,7,69,"Achham",2,"Chaurpati","चौरपाटी गाउँपालिका","Gaunpalika",7
+76903,7,69,"Achham",3,"Dhakari","ढकारी गाउँपालिका","Gaunpalika",8
+76904,7,69,"Achham",4,"Kamalbazar","कमलबजार नगरपालिका","Nagarpalika",10
+76905,7,69,"Achham",5,"Mangalsen","मंगलसेन नगरपालिका","Nagarpalika",14
+76906,7,69,"Achham",6,"Mellekh","मेल्लेख गाउँपालिका","Gaunpalika",8
+76907,7,69,"Achham",7,"Panchadewal Binayak","पन्चदेवल विनायक नगरपालिका","Nagarpalika",9
+76908,7,69,"Achham",8,"Ramaroshan","रामारोशन गाउँपालिका","Gaunpalika",7
+76909,7,69,"Achham",9,"Sanphebagar","साँफेबगर नगरपालिका","Nagarpalika",14
+76910,7,69,"Achham",10,"Turmakhad","तुर्माखाँद गाउँपालिका","Gaunpalika",8
+76999,7,69,"Achham",99,"Khaptad National Park","","National Park",NA
+77001,7,70,"Doti",1,"Adharsha","आदर्श गाउँपालिका","Gaunpalika",7
+77002,7,70,"Doti",2,"Badikedar","बडीकेदार गाउँपालिका","Gaunpalika",5
+77003,7,70,"Doti",3,"Bogtan","बोगटान गाउँपालिका","Gaunpalika",7
+77004,7,70,"Doti",4,"Dipayal Silgadi","दिपायल सिलगढी नगरपालिका","Nagarpalika",9
+77005,7,70,"Doti",5,"Jorayal","जोरायल गाउँपालिका","Gaunpalika",6
+77006,7,70,"Doti",6,"K I Singh","के.आई.सिं. गाउँपालिका","Gaunpalika",7
+77007,7,70,"Doti",7,"Purbichauki","पूर्वीचौकी गाउँपालिका","Gaunpalika",7
+77008,7,70,"Doti",8,"Sayal","सायल गाउँपालिका","Gaunpalika",6
+77009,7,70,"Doti",9,"Shikhar","शिखर नगरपालिका","Nagarpalika",11
+77099,7,70,"Doti",99,"Khaptad National Park","","National Park",NA
+77101,7,71,"Kailali",1,"Bardagoriya","बर्दगोरिया गाउँपालिका","Gaunpalika",6
+77102,7,71,"Kailali",2,"Bhajani","भजनी नगरपालिका","Nagarpalika",9
+77103,7,71,"Kailali",3,"Chure","चुरे गाउँपालिका","Gaunpalika",6
+77104,7,71,"Kailali",4,"Dhangadhi","धनगढी उपमहानगरपालिका","Upamahanagarpalika",19
+77105,7,71,"Kailali",5,"Gauriganga","गौरीगंगा नगरपालिका","Nagarpalika",11
+77106,7,71,"Kailali",6,"Ghodaghodi","घोडाघोडी नगरपालिका","Nagarpalika",12
+77107,7,71,"Kailali",7,"Godawari","गोदावरी नगरपालिका","Nagarpalika",12
+77108,7,71,"Kailali",8,"Janaki","जानकी गाउँपालिका","Gaunpalika",9
+77109,7,71,"Kailali",9,"Joshipur","जोशीपुर गाउँपालिका","Gaunpalika",7
+77110,7,71,"Kailali",10,"Kailari","कैलारी गाउँपालिका","Gaunpalika",9
+77111,7,71,"Kailali",11,"Lamkichuha","लम्कीचुहा नगरपालिका","Nagarpalika",10
+77112,7,71,"Kailali",12,"Mohanyal","मोहन्याल गाउँपालिका","Gaunpalika",7
+77113,7,71,"Kailali",13,"Tikapur","टिकापुर नगरपालिका","Nagarpalika",9
+77201,7,72,"Kanchanpur",1,"Bedkot","वेदकोट नगरपालिका","Nagarpalika",10
+77202,7,72,"Kanchanpur",2,"Belauri","बेलौरी नगरपालिका","Nagarpalika",10
+77203,7,72,"Kanchanpur",3,"Beldandi","बेलडाडी गाउँपालिका","Gaunpalika",5
+77204,7,72,"Kanchanpur",4,"Bhimdatta","भीमदत्त नगरपालिका","Nagarpalika",19
+77205,7,72,"Kanchanpur",5,"Krishnapur","कृष्णपुर नगरपालिका","Nagarpalika",9
+77206,7,72,"Kanchanpur",6,"Laljhadi","लालझाडी गाउँपालिका","Gaunpalika",6
+77207,7,72,"Kanchanpur",7,"Mahakali","महाकाली नगरपालिका","Nagarpalika",19
+77208,7,72,"Kanchanpur",8,"Punarbas","पुर्नवास नगरपालिका","Nagarpalika",11
+77209,7,72,"Kanchanpur",9,"Shuklaphanta","शुक्लाफाँटा नगरपालिका","Nagarpalika",12
+77299,7,72,"Kanchanpur",99,"Shuklaphanta National Park","","National Park",NA
+77301,7,73,"Dadeldhura",1,"Ajaymeru","अजयमेरु गाउँपालिका","Gaunpalika",6
+77302,7,73,"Dadeldhura",2,"Alital","आलिताल गाउँपालिका","Gaunpalika",8
+77303,7,73,"Dadeldhura",3,"Amargadhi","अमरगढी नगरपालिका","Nagarpalika",11
+77304,7,73,"Dadeldhura",4,"Bhageshwar","भागेश्वर गाउँपालिका","Gaunpalika",5
+77305,7,73,"Dadeldhura",5,"Ganayapdhura","गन्यापधुरा गाउँपालिका","Gaunpalika",5
+77306,7,73,"Dadeldhura",6,"Nawadurga","नवदुर्गा गाउँपालिका","Gaunpalika",5
+77307,7,73,"Dadeldhura",7,"Parashuram","परशुराम नगरपालिका","Nagarpalika",12
+77401,7,74,"Baitadi",1,"Dasharathchanda","दशरथचन्द नगरपालिका","Nagarpalika",11
+77402,7,74,"Baitadi",2,"Dilasaini","डीलासैनी गाउँपालिका","Gaunpalika",7
+77403,7,74,"Baitadi",3,"Dogadakedar","दोगडाकेदार गाउँपालिका","Gaunpalika",8
+77404,7,74,"Baitadi",4,"Melauli","मेलौली नगरपालिका","Nagarpalika",9
+77405,7,74,"Baitadi",5,"Pancheshwar","पञ्चेश्वर गाउँपालिका","Gaunpalika",6
+77406,7,74,"Baitadi",6,"Patan","पाटन नगरपालिका","Nagarpalika",10
+77407,7,74,"Baitadi",7,"Purchaudi","पुर्चौडी नगरपालिका","Nagarpalika",10
+77408,7,74,"Baitadi",8,"Shivanath","शिवनाथ गाउँपालिका","Gaunpalika",6
+77409,7,74,"Baitadi",9,"Sigas","सिगास गाउँपालिका","Gaunpalika",9
+77410,7,74,"Baitadi",10,"Surnaya","सुर्नया गाउँपालिका","Gaunpalika",8
+77501,7,75,"Darchula",1,"Apihimal","अपिहिमाल गाउँपालिका","Gaunpalika",6
+77502,7,75,"Darchula",2,"Byas","व्यास नगरपालिका","Gaunpalika",6
+77503,7,75,"Darchula",3,"Dunhu","दुहुँ गाउँपालिका","Gaunpalika",5
+77504,7,75,"Darchula",4,"Lekam","लेकम गाउँपालिका","Gaunpalika",6
+77505,7,75,"Darchula",5,"Mahakali","महाकाली नगरपालिका","Nagarpalika",9
+77506,7,75,"Darchula",6,"Malikaarjun","मालिकार्जुन गाउँपालिका","Gaunpalika",8
+77507,7,75,"Darchula",7,"Marma","मार्मा गाउँपालिका","Gaunpalika",6
+77508,7,75,"Darchula",8,"Naugad","नौगाड गाउँपालिका","Gaunpalika",6
+77509,7,75,"Darchula",9,"Shailyashikhar","शैल्यशिखर नगरपालिका","Nagarpalika",9
